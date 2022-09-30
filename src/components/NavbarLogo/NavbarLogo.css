@@ -1,0 +1,10 @@
+.navbarLogo {
+    width: 10%;
+}
+.navbarLogo img{
+    width: 100%;
+    height: 100%;
+}
+.navbarLogo a{
+    text-decoration: none;
+}

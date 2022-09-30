@@ -1,0 +1,9 @@
+.navbarIcon {
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+}
+.navbarIcon a{
+    color: black;
+    font-size: 27px;
+}
